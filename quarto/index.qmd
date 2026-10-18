@@ -21,7 +21,7 @@ I work on time-series analysis, financial econometrics, latent class models, and
 :::
 
 ::: {.bio tag="p"}
-I am an Associate Professor in the Department of Economics and Business Economics at Aarhus University. My research develops models and methods for understanding changing distributions, volatility, and risk.
+I am an Associate Professor in the Department of Economics and Business Economics at Aarhus University. My research develops models and methods for understanding changing distributions, volatility, and risk. test
 :::
 
 ::: actions
