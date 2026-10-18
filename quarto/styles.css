@@ -9,3 +9,7 @@
 /* Markdown paragraphs inside horizontal link groups. */
 .actions > p, .package-links > p, .section-links > p { display: contents; }
 .section-heading > p { margin-bottom: 5px; }
+.hero h1 {
+  font-size: clamp(2.25rem, 4.5vw, 3.5rem);
+  line-height: 1.1;
+}
