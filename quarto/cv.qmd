@@ -89,7 +89,7 @@ Associate Editor · Methods Section
 <leopoldo.catania@econ.au.dk>
 
 ::: {tag="address"}
-Department of Economics and Business Economics<br>Aarhus BSS, Aarhus University<br>Fuglesangs Allé 4<br>8210 Aarhus V, Denmark
+Department of Economics and Business Economics<br>Aarhus BSS, Aarhus University<br>Universitetsbyen 51<br>8000 Aarhus, Denmark
 :::
 
 ::: package-links
