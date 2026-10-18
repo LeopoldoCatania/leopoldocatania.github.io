@@ -24,6 +24,10 @@ I work on time-series analysis, financial econometrics, latent class models, and
 I am an Associate Professor in the Department of Economics and Business Economics at Aarhus University. My research develops models and methods for understanding changing distributions, volatility, and risk.
 :::
 
+::: {.bio tag="p"}
+I serve as an Associate Editor of the *Journal of Financial Econometrics*, the *International Journal of Forecasting*, and *Statistical Methods & Applications* (Methods Section).
+:::
+
 ::: actions
 [Explore my research [↗]{aria-hidden="true"}](research.qmd){.button}[Download CV [↓]{aria-hidden="true"}](cv.pdf){.text-link}
 :::
