@@ -10,7 +10,7 @@ page-index: true
 ECONOMETRICS · AARHUS UNIVERSITY
 :::
 
-# Leopoldo<br>Catania[.]{.name-dot}
+# Leopoldo Catania[.]{.name-dot}
 
 ::: {.role tag="p"}
 Associate Professor of Econometrics
