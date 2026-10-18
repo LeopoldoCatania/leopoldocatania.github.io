@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+.Rproj.user/
+.quarto/
+_site/
+leopoldocatania.github.io.Rproj
