@@ -1,0 +1,83 @@
+---
+title: "Research group"
+description: "Research projects and group members working with Leopoldo Catania at Aarhus University."
+page-group: true
+---
+
+::: page-heading
+::: {.eyebrow tag="p"}
+RESEARCH GROUP
+:::
+
+# Research<br>in collaboration.
+
+::: {.lead tag="p"}
+Projects, postdoctoral researchers, and PhD students at Aarhus University.
+:::
+:::
+
+::: {.two-column-section .first tag="section"}
+## Research projects
+
+::: layout-block
+::: {.project tag="article"}
+::: {.eyebrow tag="p"}
+DFF · 2024–2027
+:::
+
+### A new way to estimate probability densities
+
+Principal Investigator. Awarded in 2023 by the Independent Research Fund Denmark (DFF), with funding of DKK 6,190,564.
+:::
+
+::: {.project tag="article"}
+::: {.eyebrow tag="p"}
+AUFF NOVA · 2020–2025
+:::
+
+### The Dynamic Shape of Randomness
+
+Principal Investigator. Funded by Aarhus University Research Foundation (AUFF), with funding of DKK 2,500,000.
+:::
+:::
+:::
+
+::: {.two-column-section tag="section"}
+## Group members
+
+::: people
+::: person
+### Frederik Krabbe
+
+Postdoctoral researcher
+:::
+
+::: person
+### Gabriele Mingoli
+
+Postdoctoral researcher
+:::
+
+::: person
+### Giovanni Rizzelli
+
+PhD student
+:::
+
+::: person
+### Jannik Steenbergen
+
+PhD student
+:::
+
+::: person
+### Davide Delfino
+
+PhD student
+:::
+:::
+:::
+
+::: endnote
+Interested in discussing research? [Get in touch](mailto:leopoldo.catania@econ.au.dk).
+:::

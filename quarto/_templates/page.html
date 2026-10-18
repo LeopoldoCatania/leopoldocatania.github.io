@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>$title$ · Leopoldo Catania</title>
+<meta name="description" content="$description$">
+<meta name="theme-color" content="#173f56">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="stylesheet" href="styles.css">
+<script src="site.js" defer></script>
+$for(header-includes)$$header-includes$$endfor$
+</head>
+<body><a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header"><div class="header-inner"><a class="brand" href="index.html">Leopoldo Catania<span>AARHUS UNIVERSITY</span></a>
+<nav aria-label="Main navigation"><a href="index.html" $if(page-index)$aria-current="page"$endif$>Home</a><a href="research.html" $if(page-research)$aria-current="page"$endif$>Research</a><a href="software.html" $if(page-software)$aria-current="page"$endif$>Software</a><a href="teaching.html" $if(page-teaching)$aria-current="page"$endif$>Teaching</a><a href="group.html" $if(page-group)$aria-current="page"$endif$>Research group</a><a href="cv.html" $if(page-cv)$aria-current="page"$endif$>CV & contact</a></nav></div></header>
+<main id="main" class="container">
+$body$
+</main>
+<footer class="site-footer"><div><span>Leopoldo Catania</span><p>Department of Economics and Business Economics<br>Aarhus University, Denmark</p></div>
+<div><a href="mailto:leopoldo.catania@econ.au.dk">leopoldo.catania@econ.au.dk</a><p>Content updated $content-updated$</p></div></footer>
+$for(include-after)$$include-after$$endfor$
+</body>
+</html>

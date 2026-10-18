@@ -1,0 +1,99 @@
+---
+title: "CV & contact"
+description: "Curriculum vitae and contact details for Leopoldo Catania, Associate Professor at Aarhus University."
+page-cv: true
+---
+
+::: page-heading
+::: {.eyebrow tag="p"}
+CV & CONTACT
+:::
+
+# Academic profile.
+
+::: {.lead tag="p"}
+Leopoldo Catania · Associate Professor · Aarhus University
+:::
+
+::: actions
+[Download full CV [↓]{aria-hidden="true"}](cv.pdf){.button download=""}[PDF · October 2026]{.muted}
+:::
+:::
+
+::: {.two-column-section .first tag="section"}
+## Appointments
+
+::: layout-block
+::: {.compact-entry tag="article"}
+::: {.eyebrow tag="p"}
+2020–PRESENT
+:::
+
+### Associate Professor
+
+Department of Economics and Business Economics<br>Aarhus University
+:::
+
+::: {.compact-entry tag="article"}
+::: {.eyebrow tag="p"}
+2017–2020
+:::
+
+### Assistant Professor
+
+Department of Economics and Business Economics<br>Aarhus University
+:::
+:::
+:::
+
+::: {.two-column-section tag="section"}
+## Editorial roles
+
+::: layout-block
+::: {.compact-entry tag="article"}
+::: {.eyebrow tag="p"}
+2026–PRESENT
+:::
+
+### Journal of Financial Econometrics
+
+Associate Editor
+:::
+
+::: {.compact-entry tag="article"}
+::: {.eyebrow tag="p"}
+2024–PRESENT
+:::
+
+### International Journal of Forecasting
+
+Associate Editor
+:::
+
+::: {.compact-entry tag="article"}
+::: {.eyebrow tag="p"}
+2022–PRESENT
+:::
+
+### Statistical Methods & Applications
+
+Associate Editor · Methods Section
+:::
+:::
+:::
+
+::: {.two-column-section tag="section"}
+## Contact
+
+::: layout-block
+<leopoldo.catania@econ.au.dk>
+
+::: {tag="address"}
+Department of Economics and Business Economics<br>Aarhus BSS, Aarhus University<br>Fuglesangs Allé 4<br>8210 Aarhus V, Denmark
+:::
+
+::: package-links
+[University profile ↗](https://pure.au.dk/portal/en/leopoldo.catania@econ.au.dk)[GitHub ↗](https://github.com/LeopoldoCatania)[Google Scholar ↗](https://scholar.google.com/citations?hl=it&user=RPa-qa0AAAAJ)[ORCID ↗](https://orcid.org/0000-0002-0981-1921)[SSRN ↗](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=2040251)
+:::
+:::
+:::

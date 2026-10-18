@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: _site
+  post-render:
+    - _scripts/finalize.ts
+  render:
+    - index.qmd
+    - research.qmd
+    - software.qmd
+    - teaching.qmd
+    - group.qmd
+    - cv.qmd
+  resources:
+    - cv.pdf
+    - favicon.svg
+    - styles.css
+    - site.js
+    - CNAME
+
+website:
+  title: "Leopoldo Catania"
+  site-url: https://www.leopoldocatania.com
+  search: false
+
+content-updated: "October 2026"
+
+format:
+  html:
+    theme: none
+    template: _templates/page.html
+    toc: false
+    section-divs: false
+    anchor-sections: false
+    code-copy: false
+    minimal: true
+
+filters:
+  - _templates/semantic.lua
+
+editor: source

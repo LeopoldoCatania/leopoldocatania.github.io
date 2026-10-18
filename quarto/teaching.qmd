@@ -1,0 +1,133 @@
+---
+title: "Teaching"
+description: "Courses and supervision in financial econometrics and time-series analysis by Leopoldo Catania."
+page-teaching: true
+---
+
+::: page-heading
+::: {.eyebrow tag="p"}
+TEACHING
+:::
+
+# Econometrics<br>in the classroom.
+
+::: {.lead tag="p"}
+Teaching experience at undergraduate, master’s, and doctoral levels.
+:::
+:::
+
+::: {tag="section"}
+## Courses taught
+
+::: {.course tag="article"}
+::: {.course-years tag="p"}
+2018–2026
+:::
+
+::: layout-block
+### Financial Econometrics
+
+MSc · Aarhus University
+:::
+:::
+
+::: {.course tag="article"}
+::: {.course-years tag="p"}
+2024
+:::
+
+::: layout-block
+### Advanced Time Series Analysis
+
+PhD · Aarhus University
+:::
+:::
+
+::: {.course tag="article"}
+::: {.course-years tag="p"}
+2022, 2024
+:::
+
+::: layout-block
+### Advanced Time Series Analysis
+
+PhD · Luiss University
+:::
+:::
+
+::: {.course tag="article"}
+::: {.course-years tag="p"}
+2018–2023
+:::
+
+::: layout-block
+### Advanced Financial Econometrics
+
+PhD · Aarhus University
+:::
+:::
+
+::: {.course tag="article"}
+::: {.course-years tag="p"}
+2023
+:::
+
+::: layout-block
+### Causal Inference
+
+BSc · Aarhus University
+:::
+:::
+
+::: {.course tag="article"}
+::: {.course-years tag="p"}
+2018
+:::
+
+::: layout-block
+### Programming in Quantitative Economics
+
+BA · Aarhus University
+:::
+:::
+
+::: {.course tag="article"}
+::: {.course-years tag="p"}
+2017
+:::
+
+::: layout-block
+### Time Series Econometrics
+
+MSc · Aarhus University
+:::
+:::
+
+::: {.course tag="article"}
+::: {.course-years tag="p"}
+2016
+:::
+
+::: layout-block
+### Financial Econometrics — Computer Labs
+
+University of Rome “Tor Vergata”
+:::
+:::
+:::
+
+::: {.two-column-section tag="section"}
+## Supervision
+
+::: layout-block
+I supervise doctoral research and master’s theses in econometrics. Between 2019 and 2025, I supervised more than 50 master’s students at Aarhus University.
+
+My doctoral supervision includes D. Delfino, G. Rizzelli, F. Okslund, P. Vallarino, F. Krabbe, and J. Steenbergen, as well as co-supervision of E. Mensali at the University of Bologna.
+
+[Research group →](group.qmd){.text-link}
+:::
+:::
+
+::: endnote
+Enrolled students can find course materials on Brightspace. For course-related questions, [contact me by email](mailto:leopoldo.catania@econ.au.dk).
+:::

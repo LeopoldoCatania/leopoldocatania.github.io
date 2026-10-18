@@ -1,0 +1,163 @@
+---
+title: "Home"
+description: "Leopoldo Catania is an Associate Professor at Aarhus University working on time-series analysis, financial econometrics, latent class models, and quantitative risk management."
+page-index: true
+---
+
+::: {.hero tag="section"}
+::: layout-block
+::: {.eyebrow tag="p"}
+ECONOMETRICS · AARHUS UNIVERSITY
+:::
+
+# Leopoldo<br>Catania[.]{.name-dot}
+
+::: {.role tag="p"}
+Associate Professor of Econometrics
+:::
+
+::: {.intro tag="p"}
+I work on time-series analysis, financial econometrics, latent class models, and quantitative risk management.
+:::
+
+::: {.bio tag="p"}
+I am an Associate Professor in the Department of Economics and Business Economics at Aarhus University. My research develops models and methods for understanding changing distributions, volatility, and risk.
+:::
+
+::: actions
+[Explore my research [↗]{aria-hidden="true"}](research.qmd){.button}[Download CV [↓]{aria-hidden="true"}](cv.pdf){.text-link}
+:::
+
+::: {.package-links aria-label="Academic profiles"}
+[Google Scholar ↗](https://scholar.google.com/citations?hl=it&user=RPa-qa0AAAAJ)[ORCID ↗](https://orcid.org/0000-0002-0981-1921)[SSRN ↗](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=2040251)
+:::
+:::
+
+::: {.profile-note tag="aside"}
+::: {.eyebrow tag="p"}
+RESEARCH INTERESTS
+:::
+
+-   Time-series analysis
+-   Financial econometrics
+-   Latent class models
+-   Quantitative risk management
+
+::: note-divider
+:::
+
+::: {.eyebrow tag="p"}
+BASED IN
+:::
+
+Aarhus, Denmark
+
+[Get in touch [↗]{aria-hidden="true"}](mailto:leopoldo.catania@econ.au.dk)
+:::
+:::
+
+::: {.home-section tag="section"}
+::: section-heading
+::: layout-block
+::: {.eyebrow tag="p"}
+CURRENT RESEARCH
+:::
+
+## Working papers
+:::
+
+[View all working papers →](research.qmd#working-papers){.text-link}
+:::
+
+::: {.paper year="WP"}
+### [Autoregressive Models with Non-Causal ARCH Volatility](https://ssrn.com/abstract=6095631)
+
+Catania, L. and Mingoli, G.
+
+[Working paper on SSRN [↗]{aria-hidden="true"}](https://ssrn.com/abstract=6095631){.small-link}
+:::
+
+::: {.paper year="WP"}
+### [A Generalized Filter for Regime Switching Models](https://ssrn.com/abstract=7544720)
+
+Catania, L., Harvey, A. C., and Krabbe, F.
+
+[Working paper on SSRN [↗]{aria-hidden="true"}](https://ssrn.com/abstract=7544720){.small-link}
+:::
+
+::: {.paper year="WP"}
+### [The Leverage Effect and Propagation](https://ssrn.com/abstract=3662346)
+
+Catania, L.
+
+[Working paper on SSRN [↗]{aria-hidden="true"}](https://ssrn.com/abstract=3662346){.small-link}
+:::
+:::
+
+::: {.home-section tag="section"}
+::: section-heading
+::: layout-block
+::: {.eyebrow tag="p"}
+SELECTED WORK
+:::
+
+## Publications
+:::
+
+[All publications →](research.qmd#publications){.text-link}
+:::
+
+::: {.paper year="2026"}
+### [Unobserved Component Models, Approximate Filters and Dynamic Adaptive Mixture Models](https://doi.org/10.1016/j.jeconom.2025.106155)
+
+Catania, L., D’Innocenzo, E., and Luati, A.
+
+*Journal of Econometrics*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1016/j.jeconom.2025.106155){.small-link}
+:::
+
+::: {.paper year="2025"}
+### [Switching Regime Integer Autoregressions](https://doi.org/10.1017/S0266466625100182)
+
+Catania, L., Rossi, E., and Santucci de Magistris, P.
+
+*Econometric Theory*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1017/S0266466625100182){.small-link}
+:::
+
+::: {.paper year="2023"}
+### [Semiparametric Modeling of Multiple Quantiles](https://doi.org/10.1016/j.jeconom.2022.11.002)
+
+Catania, L. and Luati, A.
+
+*Journal of Econometrics*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1016/j.jeconom.2022.11.002){.small-link}
+:::
+
+::: {.paper year="2022"}
+### [A Stochastic Volatility Model with a General Leverage Specification](https://doi.org/10.1080/07350015.2020.1855187)
+
+Catania, L.
+
+*Journal of Business & Economic Statistics*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1080/07350015.2020.1855187){.small-link}
+:::
+:::
+
+::: {.software-strip tag="section"}
+::: layout-block
+::: {.eyebrow tag="p"}
+RESEARCH SOFTWARE
+:::
+
+## Econometric tools in R.
+
+MSGARCH · GAS · eDMA · MCS
+:::
+
+[Explore the packages →](software.qmd){.button}
+:::

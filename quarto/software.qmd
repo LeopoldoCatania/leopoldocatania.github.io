@@ -1,0 +1,101 @@
+---
+title: "Software"
+description: "R packages coauthored by Leopoldo Catania: MSGARCH, GAS, eDMA, and MCS."
+page-software: true
+---
+
+::: page-heading
+::: {.eyebrow tag="p"}
+SOFTWARE
+:::
+
+# Research you<br>can build on.
+
+::: {.lead tag="p"}
+R packages for volatility, dynamic distributions, forecasting, and model comparison.
+:::
+:::
+
+::: {.package tag="section"}
+::: layout-block
+[01]{.package-number}
+
+## MSGARCH
+:::
+
+::: layout-block
+### Markov-switching GARCH models
+
+Estimation and forecasting with Markov-switching GARCH models for time-varying volatility and risk.
+
+::: package-links
+[CRAN & documentation ↗](https://cran.r-project.org/package=MSGARCH)[Package paper ↗](https://doi.org/10.18637/jss.v091.i04)
+:::
+
+    install.packages("MSGARCH")
+:::
+:::
+
+::: {.package tag="section"}
+::: layout-block
+[02]{.package-number}
+
+## GAS
+:::
+
+::: layout-block
+### Generalized autoregressive score models
+
+Tools for estimating and forecasting time-varying conditional distributions using score-driven models.
+
+::: package-links
+[CRAN & documentation ↗](https://cran.r-project.org/package=GAS)[Package paper ↗](https://doi.org/10.18637/jss.v088.i06)
+:::
+
+    install.packages("GAS")
+:::
+:::
+
+::: {.package tag="section"}
+::: layout-block
+[03]{.package-number}
+
+## eDMA
+:::
+
+::: layout-block
+### Dynamic model averaging
+
+Dynamic model averaging for applications in economics and finance.
+
+::: package-links
+[CRAN & documentation ↗](https://cran.r-project.org/package=eDMA)[Package paper ↗](https://doi.org/10.18637/jss.v084.i11)
+:::
+
+    install.packages("eDMA")
+:::
+:::
+
+::: {.package tag="section"}
+::: layout-block
+[04]{.package-number}
+
+## MCS
+:::
+
+::: layout-block
+### Model confidence sets
+
+Model comparison using the Model Confidence Set procedure.
+
+::: package-links
+[CRAN & documentation ↗](https://cran.r-project.org/package=MCS)[Package paper ↗](https://doi.org/10.1504/IJCEE.2018.091037)
+:::
+
+    install.packages("MCS")
+:::
+:::
+
+::: endnote
+These packages are collaborative projects. Full authorship and citation information are available on each package’s CRAN page and in the accompanying paper.
+:::

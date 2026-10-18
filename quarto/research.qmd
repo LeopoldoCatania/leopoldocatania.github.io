@@ -1,0 +1,385 @@
+---
+title: "Research"
+description: "Working papers and journal publications by Leopoldo Catania in econometrics, forecasting, and financial risk."
+page-research: true
+---
+
+::: page-heading
+::: {.eyebrow tag="p"}
+RESEARCH
+:::
+
+# Models, methods<br>& applications.
+
+::: {.lead tag="p"}
+Time series, dynamic distributions, volatility, and risk.
+:::
+:::
+
+```{=html}
+<div class="research-tools"><div class="section-links"><a href="#working-papers">Working papers</a><a href="#publications">Publications</a></div><div class="search-wrap" hidden><label for="paper-search">Find a paper</label><input id="paper-search" type="search" placeholder="Search title, author, or journal" autocomplete="off"><p id="search-count" class="sr-only" role="status" aria-live="polite"></p></div></div>
+```
+
+::: {#working-papers .research-section tag="section"}
+## Working papers [6]{.count}
+
+::: {.paper year="WP"}
+### [Autoregressive Models with Non-Causal ARCH Volatility](https://ssrn.com/abstract=6095631)
+
+Catania, L. and Mingoli, G.
+
+[Working paper on SSRN [↗]{aria-hidden="true"}](https://ssrn.com/abstract=6095631){.small-link}
+:::
+
+::: {.paper year="WP"}
+### [A Generalized Filter for Regime Switching Models](https://ssrn.com/abstract=7544720)
+
+Catania, L., Harvey, A. C., and Krabbe, F.
+
+[Working paper on SSRN [↗]{aria-hidden="true"}](https://ssrn.com/abstract=7544720){.small-link}
+:::
+
+::: {.paper year="WP"}
+### [The Leverage Effect and Propagation](https://ssrn.com/abstract=3662346)
+
+Catania, L.
+
+[Working paper on SSRN [↗]{aria-hidden="true"}](https://ssrn.com/abstract=3662346){.small-link}
+:::
+
+::: {.paper year="WP"}
+### [Noise Cancelling Observation-Driven Models](https://ssrn.com/abstract=6977999)
+
+Catania, L. and Steenbergen, J.
+
+[Working paper on SSRN [↗]{aria-hidden="true"}](https://ssrn.com/abstract=6977999){.small-link}
+:::
+
+::: {.paper year="WP"}
+### [Dynamic Spatial Autoregressive Models with Time-Varying Spatial Weighting Matrices](https://ssrn.com/abstract=3278789)
+
+Billé, A. G., Blasques, F., and Catania, L.
+
+[Working paper on SSRN [↗]{aria-hidden="true"}](https://ssrn.com/abstract=3278789){.small-link}
+:::
+
+::: {.paper year="WP"}
+### [Dynamic Multiple Quantile Models](https://ssrn.com/abstract=3727513)
+
+Catania, L., Luati, A., and Mikkelsen, E. B.
+
+[Working paper on SSRN [↗]{aria-hidden="true"}](https://ssrn.com/abstract=3727513){.small-link}
+:::
+:::
+
+::: {#publications .research-section tag="section"}
+## Journal publications [30]{.count}
+
+::: {.paper year="2026"}
+### [Multiple Chains Markov Switching Vector Autoregression](https://doi.org/10.1111/jtsa.70061)
+
+Catania, L.
+
+*Journal of Time Series Analysis*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1111/jtsa.70061){.small-link}
+:::
+
+::: {.paper year="2026"}
+### [Economic vulnerability is state dependent](https://doi.org/10.1093/ectj/utag003)
+
+Catania, L., Luati, A., and Vallarino, P.
+
+*The Econometrics Journal*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1093/ectj/utag003){.small-link}
+:::
+
+::: {.paper year="2026"}
+### [Unobserved Component Models, Approximate Filters and Dynamic Adaptive Mixture Models](https://doi.org/10.1016/j.jeconom.2025.106155)
+
+Catania, L., D’Innocenzo, E., and Luati, A.
+
+*Journal of Econometrics*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1016/j.jeconom.2025.106155){.small-link}
+:::
+
+::: {.paper year="2025"}
+### [Robust CDF-Filtering of a Location Parameter](https://doi.org/10.1111/jtsa.70026)
+
+Catania, L., Harvey, A., and Luati, A.
+
+*Journal of Time Series Analysis*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1111/jtsa.70026){.small-link}
+:::
+
+::: {.paper year="2025"}
+### [Switching Regime Integer Autoregressions](https://doi.org/10.1017/S0266466625100182)
+
+Catania, L., Rossi, E., and Santucci de Magistris, P.
+
+*Econometric Theory*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1017/S0266466625100182){.small-link}
+:::
+
+::: {.paper year="2023"}
+### [Simultaneous Bandwidths Determination for DK-HAC Estimators and Long-Run Variance Estimation in Nonparametric Settings](https://doi.org/10.1080/07474938.2023.2178138)
+
+Belotti, F., Casini, A., Catania, L., Grassi, S., and Perron, P.
+
+*Econometric Reviews*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1080/07474938.2023.2178138){.small-link}
+:::
+
+::: {.paper year="2023"}
+### [Semiparametric Modeling of Multiple Quantiles](https://doi.org/10.1016/j.jeconom.2022.11.002)
+
+Catania, L. and Luati, A.
+
+*Journal of Econometrics*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1016/j.jeconom.2022.11.002){.small-link}
+:::
+
+::: {.paper year="2022"}
+### [A Stochastic Volatility Model with a General Leverage Specification](https://doi.org/10.1080/07350015.2020.1855187)
+
+Catania, L.
+
+*Journal of Business & Economic Statistics*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1080/07350015.2020.1855187){.small-link}
+:::
+
+::: {.paper year="2022"}
+### [Dynamic Discrete Mixtures for High Frequency Prices](https://doi.org/10.1080/07350015.2020.1840994)
+
+Catania, L., Di Mari, R., and Santucci de Magistris, P.
+
+*Journal of Business & Economic Statistics*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1080/07350015.2020.1840994){.small-link}
+:::
+
+::: {.paper year="2022"}
+### [Forecasting cryptocurrency volatility](https://doi.org/10.1016/j.ijforecast.2021.06.005)
+
+Catania, L. and Grassi, S.
+
+*International Journal of Forecasting*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1016/j.ijforecast.2021.06.005){.small-link}
+:::
+
+::: {.paper year="2021"}
+### [Quasi Maximum Likelihood Estimation of Value at Risk and Expected Shortfall](https://doi.org/10.1016/j.ecosta.2021.08.003)
+
+Catania, L. and Luati, A.
+
+*Econometrics and Statistics*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1016/j.ecosta.2021.08.003){.small-link}
+:::
+
+::: {.paper year="2021"}
+### [Hierarchical Hidden Markov Models for Multivariate Integer-valued Time-series](https://doi.org/10.1016/j.jeconom.2020.02.002)
+
+Catania, L. and Di Mari, R.
+
+*Journal of Econometrics*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1016/j.jeconom.2020.02.002){.small-link}
+:::
+
+::: {.paper year="2021"}
+### [Dynamic Adaptive Mixture Models with an Application to Volatility and Risk](https://doi.org/10.1093/jjfinec/nbz018)
+
+Catania, L.
+
+*Journal of Financial Econometrics*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1093/jjfinec/nbz018){.small-link}
+:::
+
+::: {.paper year="2020"}
+### [Forecasting Volatility with Time-Varying Leverage and Volatility of Volatility Effects](https://doi.org/10.1016/j.ijforecast.2020.01.003)
+
+Catania, L. and Proietti, T.
+
+*International Journal of Forecasting*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1016/j.ijforecast.2020.01.003){.small-link}
+:::
+
+::: {.paper year="2020"}
+### [Managing Volumetric Risk of Long-term Power Purchase Agreements](https://doi.org/10.1016/j.eneco.2019.104567)
+
+Tranberg, B., Hansen, R. T., and Catania, L.
+
+*Energy Economics*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1016/j.eneco.2019.104567){.small-link}
+:::
+
+::: {.paper year="2020"}
+### [Robust Estimation of a Location Parameter with the Integrated Hogg Function](https://doi.org/10.1016/j.spl.2020.108812)
+
+Catania, L. and Luati, A.
+
+*Statistics & Probability Letters*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1016/j.spl.2020.108812){.small-link}
+:::
+
+::: {.paper year="2020"}
+### [Density Forecasts and the Leverage Effect: Some Evidence from Observation and Parameter-Driven Volatility Models](https://doi.org/10.1080/1351847X.2019.1586744)
+
+Catania, L. and Nonejad, N.
+
+*The European Journal of Finance*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1080/1351847X.2019.1586744){.small-link}
+:::
+
+::: {.paper year="2019"}
+### [Switching Generalised Autoregressive Score Copula Models with Application to Systemic Risk](https://doi.org/10.1002/jae.2650)
+
+Bernardi, M. and Catania, L.
+
+*Journal of Applied Econometrics*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1002/jae.2650){.small-link}
+:::
+
+::: {.paper year="2019"}
+### [Forecasting Cryptocurrencies Under Model and Parameter Instability](https://doi.org/10.1016/j.ijforecast.2018.09.005)
+
+Catania, L., Grassi, S., and Ravazzolo, F.
+
+*International Journal of Forecasting*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1016/j.ijforecast.2018.09.005){.small-link}
+:::
+
+::: {.paper year="2019"}
+### [Bitcoin at High Frequency](https://doi.org/10.3390/jrfm12010036)
+
+Catania, L. and Sandholdt, M.
+
+*Journal of Risk and Financial Management*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.3390/jrfm12010036){.small-link}
+:::
+
+::: {.paper year="2019"}
+### [Markov-Switching GARCH Models in R: The MSGARCH Package](https://doi.org/10.18637/jss.v091.i04)
+
+Ardia, D., Bluteau, K., Boudt, K., Catania, L., and Trottier, D. A.
+
+*Journal of Statistical Software*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.18637/jss.v091.i04){.small-link}
+:::
+
+::: {.paper year="2019"}
+### [Generalized Autoregressive Score Models in R: The GAS Package](https://doi.org/10.18637/jss.v088.i06)
+
+Ardia, D., Boudt, K., and Catania, L.
+
+*Journal of Statistical Software*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.18637/jss.v088.i06){.small-link}
+:::
+
+::: {.paper year="2018"}
+### [Forecasting Risk with Markov-Switching GARCH Models](https://doi.org/10.1016/j.ijforecast.2018.05.004)
+
+Ardia, D., Bluteau, K., Boudt, K., and Catania, L.
+
+*International Journal of Forecasting*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1016/j.ijforecast.2018.05.004){.small-link}
+:::
+
+::: {.paper year="2018"}
+### [Portfolio Optimisation Under Flexible Dynamic Dependence Modelling](https://doi.org/10.1016/j.jempfin.2018.05.002)
+
+Bernardi, M. and Catania, L.
+
+*Journal of Empirical Finance*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1016/j.jempfin.2018.05.002){.small-link}
+:::
+
+::: {.paper year="2018"}
+### [Downside Risk Evaluation with the R Package GAS](https://doi.org/10.32614/RJ-2018-064)
+
+Ardia, D., Boudt, K., and Catania, L.
+
+*The R Journal*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.32614/RJ-2018-064){.small-link}
+:::
+
+::: {.paper year="2018"}
+### [Dynamic Model Averaging for Practitioners in Economics and Finance: The eDMA Package](https://doi.org/10.18637/jss.v084.i11)
+
+Catania, L. and Nonejad, N.
+
+*Journal of Statistical Software*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.18637/jss.v084.i11){.small-link}
+:::
+
+::: {.paper year="2018"}
+### [The Model Confidence Set Package for R](https://doi.org/10.1504/IJCEE.2018.091037)
+
+Bernardi, M. and Catania, L.
+
+*International Journal of Computational Economics and Econometrics*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1504/IJCEE.2018.091037){.small-link}
+:::
+
+::: {.paper year="2017"}
+### [Dynamic Spatial Autoregressive Models with Autoregressive and Heteroskedastic Disturbances](https://doi.org/10.1002/jae.2565)
+
+Catania, L. and Billé, A. G.
+
+*Journal of Applied Econometrics*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1002/jae.2565){.small-link}
+:::
+
+::: {.paper year="2017"}
+### [Are News Important to Predict the Value-at-Risk?](https://doi.org/10.1080/1351847X.2015.1106959)
+
+Bernardi, M., Catania, L., and Petrella, L.
+
+*The European Journal of Finance*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1080/1351847X.2015.1106959){.small-link}
+:::
+
+::: {.paper year="2016"}
+### [Comparison of Value-at-Risk Models Using the MCS Approach](https://doi.org/10.1007/s00180-016-0646-6)
+
+Bernardi, M. and Catania, L.
+
+*Computational Statistics*
+
+[Journal article [↗]{aria-hidden="true"}](https://doi.org/10.1007/s00180-016-0646-6){.small-link}
+:::
+:::
+
+::: {#no-results tag="p" hidden=""}
+No papers match your search. Try a different title, author, or journal.
+:::
+
+::: endnote
+For work in progress and other research activities, see my [full CV](cv.pdf).
+:::
