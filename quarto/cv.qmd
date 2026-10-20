@@ -93,7 +93,7 @@ Department of Economics and Business Economics<br>Aarhus BSS, Aarhus University<
 :::
 
 ::: package-links
-[University profile ↗](https://pure.au.dk/portal/en/leopoldo.catania@econ.au.dk)[GitHub ↗](https://github.com/LeopoldoCatania)[Google Scholar ↗](https://scholar.google.com/citations?hl=it&user=RPa-qa0AAAAJ)[ORCID ↗](https://orcid.org/0000-0002-0981-1921)[SSRN ↗](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=2040251)
+[University profile ↗](https://pure.au.dk/portal/en/persons/leopoldo.catania%40econ.au.dk/)[GitHub ↗](https://github.com/LeopoldoCatania)[Google Scholar ↗](https://scholar.google.com/citations?hl=it&user=RPa-qa0AAAAJ)[ORCID ↗](https://orcid.org/0000-0002-0981-1921)[SSRN ↗](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=2040251)
 :::
 :::
 :::
